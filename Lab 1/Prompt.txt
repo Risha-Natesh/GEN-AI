@@ -1,0 +1,78 @@
+TEXT GENERATION:
+
+1. Role Definition:
+You are the Vice President of an NSS unit.
+2. Task Description:
+Draft a semi-formal email that will be sent to NSS volunteers, informing them about an upcoming sports event. The email should clearly communicate responsibilities and coordination details.
+3. Context:
+The sports event will be held on the 18th (Sunday) at the Campus Ground. As the VP, I will be overseeing all the events, and I need three coordinators (you may assign any suitable names) to take complete responsibility for their respective sports. These coordinators must handle every aspect of their event including equipment arrangements, refreshments, participant names, sorting, and smooth execution. The volunteers receiving the email should understand their roles and support.
+4. Constraints:
+	• Tone: Semi-formal
+	• Format: Email
+	• Word limit: 100–200 words
+	• Include three sports and assign random coordinator names.
+
+
+THE OUTPUT :
+
+
+Subject: NSS Sports Event – Coordination & Event Details
+
+Dear Volunteers,
+I hope you are all doing well. As the Vice President of our NSS unit, I am glad to announce that we will be hosting our NSS Sports Event on 18th (Sunday) at the Campus Ground. I will be overseeing all the events, and to ensure smooth coordination, the following members have been assigned as event coordinators:
+
+	• Kabaddi – Rohan M.
+	• Throwball – Sneha K.
+	• 100m Sprint – Aditya P.
+	
+Each coordinator will be responsible for managing their sport completely—this includes arranging equipment, organizing participant names, handling refreshments, and ensuring the overall flow of the event. I request all volunteers to cooperate with your respective coordinators and extend full support throughout the day.
+
+Your participation and teamwork are essential for making this event successful. Looking forward to an energetic and well-coordinated sports day.
+
+Warm regards,
+RISHA NATESH
+Vice President, NSS Unit
+
+
+IMAGE GENARATION:
+
+“Create a dynamic promotional video for NSS Sports Day.
+Opening scene shows animated sports icons like running silhouettes, trophies, and confetti over a bright gradient background with a stadium or campus feel.
+Text: ‘NSS Sports Day – Sunday, April 18th’.
+Voiceover: ‘Get ready for NSS Sports Day, happening on Sunday, April 18th! A day full of fun and fitness!’
+Next, show animated sports actions for Kabaddi, Throwball, and a 100-meter sprint using colorful athlete icons on a sports field with running tracks.
+Text: ‘Exciting Competitions – Kabaddi | Throwball | 100m Sprint’.
+Voiceover: ‘Take part in thrilling competitions including Kabaddi, Throwball, and the 100-meter sprint!’
+Then, animate students cheering, high-fives, baton passing, and teamwork in a bright open field.
+Text: ‘Team Spirit & Fitness’.
+Voiceover: ‘Promote team spirit and enjoy healthy competition!’
+Show volunteers managing events with clipboards and stopwatches. Display labeled avatars: ‘Arvind – Kabaddi’, ‘Sneha – Throwball’, ‘Rahul – 100m Sprint’.
+Text: ‘Coordinators & Volunteers’.
+End with a lively campus ground, cheering students, and confetti.
+Text: ‘Venue: Campus Ground – All Students Welcome!’
+Voiceover: ‘Join us, participate, and cheer on your friends!
+
+
+
+
+VIDEO GENARATION:
+
+Create a dynamic promotional video for NSS Sports Day.
+Opening scene shows animated sports icons like running silhouettes, trophies, and confetti over a bright gradient background with a stadium or campus feel.
+Text: ‘NSS Sports Day – Sunday, April 18th’.
+Voiceover: ‘Get ready for NSS Sports Day, happening on Sunday, April 18th! A day full of fun and fitness!’
+Next, show animated sports actions for Kabaddi, Throwball, and a 100-meter sprint using colorful athlete icons on a sports field with running tracks.
+Text: ‘Exciting Competitions – Kabaddi | Throwball | 100m Sprint’.
+Voiceover: ‘Take part in thrilling competitions including Kabaddi, Throwball, and the 100-meter sprint!’
+Then, animate students cheering, high-fives, baton passing, and teamwork in a bright open field.
+Text: ‘Team Spirit & Fitness’.
+Voiceover: ‘Promote team spirit and enjoy healthy competition!’
+Show volunteers managing events with clipboards and stopwatches. Display labeled avatars: ‘Arvind – Kabaddi’, ‘Sneha – Throwball’, ‘Rahul – 100m Sprint’.
+Text: ‘Coordinators & Volunteers’.
+End with a lively campus ground, cheering students, and confetti.
+Text: ‘Venue: Campus Ground – All Students Welcome!’
+Voiceover: ‘Join us, participate, and cheer on your friends!
+
+
+
+
